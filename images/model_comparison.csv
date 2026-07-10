@@ -1,0 +1,9 @@
+Model,Accuracy
+ANN,0.9997
+XGBoost,0.9996
+Random Forest,0.9995
+KNN,0.9994
+SVM,0.9993
+Decision Tree,0.999
+Logistic Regression,0.9985
+Naive Bayes,0.988
